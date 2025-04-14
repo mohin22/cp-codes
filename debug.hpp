@@ -1,4 +1,4 @@
-// Refered (https://codeforces.com/profile/neal)
+// Referred (https://codeforces.com/profile/neal)
 #ifndef ONLINE_JUDGE
 #define ONLINE_JUDGE
 
